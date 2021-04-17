@@ -36,3 +36,15 @@ footer{
 img{
     width:150px;
 }
+
+/*-----------------------------------------*/
+
+article{
+    
+    background-color: cadetblue;
+}
+
+footer{
+    
+    background-color: lightblue;
+}
